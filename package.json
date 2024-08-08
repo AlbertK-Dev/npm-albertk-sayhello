@@ -1,0 +1,27 @@
+{
+  "name": "@albertk/sayhello",
+  "version": "0.1.0",
+  "description": "simple Hello",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlbertK-Dev/npm-albertk-sayhello.git"
+  },
+  "author": "albert-k",
+  "bugs": {
+    "url": "https://github.com/AlbertK-Dev/npm-albertk-sayhello#issues"
+  },
+  "homepage": "https://github.com/AlbertK-Dev/npm-albertk-sayhello#readme",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.4",
+    "typescript": "^5.5.4"
+  }
+}
