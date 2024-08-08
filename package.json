@@ -1,5 +1,5 @@
 {
-  "name": "@albertk/sayhello",
+  "name": "@albert-k/sayhello",
   "version": "0.1.0",
   "description": "simple Hello",
   "main": "lib/index.js",
